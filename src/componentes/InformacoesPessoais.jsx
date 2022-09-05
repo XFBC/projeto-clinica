@@ -4,7 +4,7 @@ export default function InformacoesPessoais() {
       <div>
         <div className="flex flex-col w-[100%] border-opacity-50 items-center pt-2 ">
           <h2 className="text-xl font-semibold pb-4">Informaçoes Pessoais</h2>
-          <div className="grid w-[90%] md:max-w-[70%]  card bg-base-100 rounded-box form-control py-10 items-center">
+          <div className="grid w-[90%] md:max-w-[70%]  card bg-gray-700 rounded-box form-control py-10 items-center">
             <form>
               <div class="grid grid-cols-1 md:grid-cols-3 gap-4 px-4">
                 <div>
